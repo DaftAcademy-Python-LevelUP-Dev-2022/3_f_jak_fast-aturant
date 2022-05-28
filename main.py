@@ -2,4 +2,4 @@
 
 
 class HerokuApp:
-    app_url = "https://da2022webdev.herokuapp.com"  # Fill your heroku app url her
+    app_url = "https://da2022webdev.herokuapp.com"  # Fill your heroku app url here
